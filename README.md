@@ -8,7 +8,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-    <span>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, 
+    <span>A highly resourceful computer programmer and well-rounded IT professional with over four years of computing experience, 
         possessing knowledge of technologies required for the development and deployment of highly available 
         and scalable applications, including their networks and infrastructure.</span>
   <br> <br>
