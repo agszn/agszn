@@ -25,7 +25,7 @@
     <img src="https://www.payoda.com/wp-content/uploads/2021/05/1_mbP4Bjrs8Hshx7IgjsUNSg.jpeg" alt="" width="95px" height="90px">
     <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="" width="95px" height="90px">
 </p>
-<p align="center">TailwindCSS, Python, Git, Github, SciKit Learn</p>
+<p align="center">TailwindCSS, Python, Git, Github, OpenCV</p>
 
 <hr>
 
