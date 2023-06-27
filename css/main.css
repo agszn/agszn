@@ -1,9 +1,5 @@
 /**
  * =================================================================== 
- *
- *  Kards v1.0 Main Stylesheet
- *  url: styleshout.com
- *  03-01-2016
  *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
@@ -31,8 +27,6 @@
 
 /** 
  * ===================================================================
- * 01. webfonts and iconfonts - (_document-setup.scss)
- *
  * ------------------------------------------------------------------- 
  */
 @import url("fonts.css");
@@ -90,7 +84,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #64F4AB;
+	color: #2f4d3e;
 	outline: 0;
 }
 
