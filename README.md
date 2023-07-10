@@ -2,7 +2,7 @@
 <div align="center">
     <h1><b>Hello, I'm Agnes Suzan</b></h1>
     <h3><i>Fullstack Developer</i></h3>
-    <span><u>REST API | Django | ML </u> </span>
+    <span><u> REST API | Django | Tailwind  </u> </span>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -20,7 +20,7 @@
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
     <img src="https://icts.io/wp-content/uploads/2020/04/django_final.png" alt="" width="95px" height="90px">
-    <img src="[https://specials-images.forbesimg.com/imageserve/1160013652/960x0.jpg?fit=scale](https://th.bing.com/th/id/OIP.S-SYtYzIhgPRnmRd8yWH4gAAAA?pid=ImgDet&rs=1)" alt="" width="95px" height="90px">
+    <img src="https://th.bing.com/th/id/OIP.S-SYtYzIhgPRnmRd8yWH4gAAAA?pid=ImgDet&rs=1" alt="" width="95px" height="90px">
     <img src="https://www.cloudesign.com/wp-content/themes/nex/assets/images/technologies/backendthree/Flask.png" alt="" width="95px" height="90px">
     <img src="https://www.payoda.com/wp-content/uploads/2021/05/1_mbP4Bjrs8Hshx7IgjsUNSg.jpeg" alt="" width="95px" height="90px">
     <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="" width="95px" height="90px">
