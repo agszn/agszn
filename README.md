@@ -54,13 +54,13 @@
 | <a href="https://github.com/agszn/github-readme-stats">
 <img align="center" src="https://readmestats.999857.xyz/api?username=agszn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Agszn's github stats" /></a> | 
 <a href="https://github.com/agszn/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:suzanagnes00@gmail.com?subject=Hello%20Agnes Suzan,%20From%20Github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:suzanagnes00@gmail.com?subject=Hello%20Agnes Suzan,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
