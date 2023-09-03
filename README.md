@@ -38,8 +38,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
-        <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
 </p></th>
@@ -61,7 +60,7 @@
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:suzanagnes00@gmail.com?subject=Hello%20Agnes Suzan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:suzanagnes00@gmail.com?subject=Hello%20Agnes Suzan,%20From%20Github"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
