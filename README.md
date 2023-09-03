@@ -39,8 +39,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
     <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
-    <img src="icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
 </p></th>
   </tr>
 
