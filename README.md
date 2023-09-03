@@ -11,6 +11,11 @@
     <span>A resourceful computer programmer and well-rounded IT professional with over four years of computing experience, 
         possessing knowledge of technologies required for the development and deployment of highly available 
         and scalable applications, including their networks and infrastructure.</span>
+       <p>💡 Passionate about solving problems and finding creative solutions.</p>
+        <p>🚀 Specialized in crafting end-to-end projects that make a real impact.</p>
+        <p>💻 Writing clean and elegant code to bring ideas to life.</p>
+        <p>🌟 Prioritizing simplicity in every line of code.</p>
+        <p>❤️ Love transforming challenges into opportunities and making technology work wonders.</p>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=agszn" alt="https://github.com/agszn" />
 </p>
