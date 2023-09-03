@@ -18,7 +18,7 @@
 <hr>
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
-table>
+<table>
   <tr>
     <th><p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
@@ -38,7 +38,7 @@ table>
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="Putty" alt="Putty" width="40" height="40"/>&nbsp;
     <img src="icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
 </p></th>
