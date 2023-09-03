@@ -17,7 +17,8 @@
         <p align="center" >💻 Writing clean and elegant code to bring ideas to life.</p>
         <p align="center" >🌟 Prioritizing simplicity in every line of code.</p>
         <p align="center" >❤️ Love transforming challenges into opportunities and making technology work wonders.</p>
-        ![Profile Views](https://komarev.com/ghpvc/?username=agszn)
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=agszn" alt="Profile Views" /> </p>
+
 
 </p>
 
