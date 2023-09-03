@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">(Open for Hiring)</p>
-
+<hr>
 <h2 align="center">👨‍💻 Whoami</h2>
 
 <p align="center">
