@@ -51,11 +51,8 @@
 ### 📈 GitHub Stats </strong>
 
 
-| <a href="https://github.com/agszn/github-readme-stats">
-<img align="center" src="https://readmestats.999857.xyz/api?username=agszn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Agszn's github stats" /></a> | 
-<a href="https://github.com/agszn/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/agszn/github-readme-stats"><img align="center" src="https://readmestats.999857.xyz/api?username=agszn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Agszn's github stats" /></a> | <a href="https://github.com/agszn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agszn&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
