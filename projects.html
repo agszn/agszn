@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Effect Blog</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background: linear-gradient(45deg, #64F4AB, rgb(133, 130, 130), #64F4AB, black);
+            background-size: 400% 400%;
+            animation: gradientBG 10s ease infinite;
+            margin: 0;
+            height: 100vh;
+        }
+
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .blog-card {
+            perspective: 1000px;
+            transition: transform 0.5s;
+        }
+        .blog-card:hover {
+            transform: rotateY(10deg) scale(1.05);
+        }
+
+        .modal-content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Projects Details</h2>
+        <div class="row" id="blog-container"></div>
+    </div>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="blogModal" tabindex="-1" aria-labelledby="blogModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="blogModalLabel">Blog Title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="blogModalBody">
+                    Blog description goes here.
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        const blogData = [
+            { title: "Object Detection & Identification System", subtitle: "AI-powered solutions", description: "This project focuses on building an object detection and identification system using cutting-edge machine learning algorithms.", image: "https://via.placeholder.com/300" },
+            { title: "Detection of Chronic Diseases", subtitle: "Healthcare Innovations", description: "Leveraging AI to detect chronic diseases at an early stage for better treatment outcomes.", image: "https://via.placeholder.com/300" },
+            { title: "AI-Driven Content Creation", subtitle: "Inclusive Language Tools", description: "Develop a platform for generating gender-neutral and inclusive content using AI.", image: "https://via.placeholder.com/300" },
+            { title: "Text-Based Data Security", subtitle: "Blockchain Authentication", description: "Enhancing data security in Django applications with blockchain authentication techniques.", image: "https://via.placeholder.com/300" },
+            { title: "Jewelry Augmented Reality", subtitle: "Try Before You Buy", description: "An augmented reality system for virtual jewelry try-ons to enhance shopping experiences.", image: "https://via.placeholder.com/300" },
+            { title: "AI-Driven Early Detection", subtitle: "Health Solutions", description: "Using AI models to predict and detect early signs of critical diseases.", image: "https://via.placeholder.com/300" },
+            { title: "Smart Farming", subtitle: "Techno Environment Farming", description: "Implementing IoT and ML to enhance farming efficiency and environmental sustainability.", image: "https://via.placeholder.com/300" },
+            { title: "Suspicious Activity Detector", subtitle: "Security Systems", description: "Real-time monitoring and detection of suspicious activities using computer vision and AI.", image: "https://via.placeholder.com/300" },
+            { title: "IoT Patient Monitoring", subtitle: "Machine Learning for Healthcare", description: "Enhancing patient monitoring with IoT and ML for early disease detection.", image: "https://via.placeholder.com/300" },
+            { title: "Cattle Health Monitoring", subtitle: "Smart Farming Solutions", description: "Using IoT to monitor and improve the health of cattle in farms.", image: "https://via.placeholder.com/300" },
+            { title: "Vegetable Leaf Disease Detection", subtitle: "Agriculture Tech", description: "A system to detect diseases in vegetable leaves to optimize crop yield.", image: "https://via.placeholder.com/300" },
+            { title: "Smart Traffic", subtitle: "Traffic Management System", description: "Developing a smart traffic management system using IoT and AI to reduce congestion.", image: "https://via.placeholder.com/300" },
+            { title: "Video Summarization", subtitle: "Media Efficiency", description: "Automating video summarization for quicker content consumption and review.", image: "https://via.placeholder.com/300" },
+            { title: "Mental Health Support", subtitle: "AI and Healthcare", description: "Leveraging AI to provide better mental health diagnostics and support systems.", image: "https://via.placeholder.com/300" },
+            { title: "Smart Pillow", subtitle: "Comfort & Tech", description: "A smart pillow with IoT-enabled features for better sleep monitoring and comfort.", image: "https://via.placeholder.com/300" }
+        ];
+        
+        let container = document.getElementById("blog-container");
+        blogData.forEach((blog, index) => {
+            let blogHTML = `
+                <div class="col-md-4">
+                    <div class="card blog-card shadow-lg mb-4">
+                        <img src="${blog.image}" class="card-img-top" alt="Blog Image">
+                        <div class="card-body">
+                            <h5 class="card-title">${blog.title}</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">${blog.subtitle}</h6>
+                            <p class="card-text">${blog.description.substring(0, 100)}...</p>
+                            <button class="btn btn-primary" onclick="viewMore(${index})" data-bs-toggle="modal" data-bs-target="#blogModal">Read More</button>
+                        </div>
+                    </div>
+                </div>`;
+            container.innerHTML += blogHTML;
+        });
+        
+        function viewMore(index) {
+            document.getElementById("blogModalLabel").innerText = blogData[index].title;
+            document.getElementById("blogModalBody").innerText = blogData[index].description;
+        }
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
