@@ -76,4 +76,22 @@
 
 <hr>
 
+<hr>
+
+<h2 align="center">🎮 Try My Games</h2>
+
+<p align="center">
+    <a target="_blank" href="https://agszn.github.io/Puzzle/puzzle%20copy.html">
+        🧩 Play Puzzle Game
+    </a>
+    <br><br>
+    <a target="_blank" href="https://agszn.github.io/Puzzle/textToAudio.html">
+        🔊 Text To Audio Converter
+    </a>
+</p>
+<hr>
+
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
+
+
+
