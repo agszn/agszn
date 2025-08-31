@@ -76,9 +76,7 @@
 
 <hr>
 
-<hr>
-
-<h2 align="center">🎮 Try My Games</h2>
+<h2 align="center">🎮 Try </h2>
 
 <p align="center">
     <a target="_blank" href="https://agszn.github.io/Puzzle/puzzle%20copy.html">
